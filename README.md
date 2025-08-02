@@ -52,8 +52,7 @@ Após a análise exploratória realizada na **Parte 1**, esta segunda etapa conc
 ### Matriz de Confusão – Random Forest
 ![Matriz de Confusão Random Forest](imagens/matriz_confusao_rf.png)
 
-> *As imagens devem ser salvas na pasta `imagens/` do repositório para exibição correta.*
-
+> 
 ---
 
 ## 🚀 Tecnologias Utilizadas
